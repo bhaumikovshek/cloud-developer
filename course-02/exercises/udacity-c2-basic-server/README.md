@@ -5,8 +5,6 @@ This is a simple node-express server to explore and understand the Request-Respo
 ***
 ## Getting Setup
 
-## Added 
-
 ### Installing project dependencies
 
 This project uses NPM to manage software dependencies. NPM Relies on the package.json file located in the root of this repository. After cloning, open your terminal and run:
